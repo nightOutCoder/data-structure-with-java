@@ -18,7 +18,7 @@ public class PrintNtoOneViaRecursion {
         print(a-1, n);
     }
 
-        /*
+    /*
      * TC - O(n)
      * SC - O(n)
     */
