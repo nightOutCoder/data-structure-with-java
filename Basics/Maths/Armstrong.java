@@ -1,4 +1,4 @@
-package Maths;
+package Basics.Maths;
 
 public class Armstrong {
     public static void main(String a[]){

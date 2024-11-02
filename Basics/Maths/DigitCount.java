@@ -1,4 +1,4 @@
-package Maths;
+package Basics.Maths;
 
 public class DigitCount {
     public static void main(String a[]){

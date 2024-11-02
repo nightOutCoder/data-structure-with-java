@@ -1,4 +1,4 @@
-package Recursion;
+package Basics.Recursion;
 
 public class Print1toNRecursion {
     public static void main(String a[]){

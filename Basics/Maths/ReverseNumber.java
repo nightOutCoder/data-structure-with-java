@@ -1,11 +1,11 @@
-package Maths;
+package Basics.Maths;
 
-public class PalindromNumber {
+public class ReverseNumber {
     public static void main(String a[]){
-        System.out.println(123211 == isPalindrome(12321));
+        System.out.println(reverseNumber(2458));
     }
 
-    public static int isPalindrome(int data){
+    public static int reverseNumber(int data){
         int reverseNumber = 0;
         while(data > 0 ){
             int lastDigit = data % 10;

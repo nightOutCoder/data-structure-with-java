@@ -1,4 +1,4 @@
-package Recursion;
+package Basics.Recursion;
 
 public class PrintOnetoNViaRecursion {
 

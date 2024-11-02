@@ -1,4 +1,4 @@
-package Maths;
+package Basics.Maths;
 
 public class GreatestCommonDivisior {
     public static void main(String a[]){

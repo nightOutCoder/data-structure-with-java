@@ -1,4 +1,4 @@
-package Maths;
+package Basics.Maths;
 
 /* A number which is having exactly two factors : 1 and the number it self */
 public class PrimeNumber {
